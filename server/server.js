@@ -44,3 +44,5 @@ app.listen(PORT, () => {
 
 //email:- test-user1@gmail.com
 //password:- test-user1-password
+
+//https://mern-e-commerce-gqza.onrender.com
